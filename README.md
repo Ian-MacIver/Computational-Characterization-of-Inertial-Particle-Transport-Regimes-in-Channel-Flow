@@ -1,0 +1,2 @@
+# Computational-Characterization-of-Inertial-Particle-Transport-Regimes-in-Channel-Flow
+Code repository for senior independent work for the Mechanical and Aerospace department at Princeton University.  Five scripts that cover particle sweeps in both laminar and turbulent channels as well as the plotting of results, a secondary force gravity verification, and an ensemble calculator for the turbulent results.
